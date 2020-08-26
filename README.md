@@ -1,8 +1,8 @@
-<!DOCTYPE html>
+
 <html>
 <head>
 	<meta charset="utf-8">
-	<style><style>
+	<style>
     * {
   box-sizing: border-box;
 }
@@ -226,7 +226,7 @@ section {
     width: 100%;
   }
 }
-</style></style>
+</style>
 </head>
 <body>
 	<h1>Our Menu</h1>
